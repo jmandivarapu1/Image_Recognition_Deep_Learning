@@ -2,3 +2,7 @@
 Deep Learning Implementation on Image:
 
 As part of this I am gonna perform some of the basic deeplearning operations we can do using the python libraries on the images
+
+Basic Libraries needed to be there for starting:
+ImageCv
+imutils
